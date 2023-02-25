@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OverlayView">
+        <attr name="strokeColor" format="color" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="highLightColor" format="color" />
+        <attr name="highLight" format="boolean" />
+        <attr name="innerRadius" format="dimension" />
+        <attr name="outerRadius" format="dimension" />
+        <attr name="frameHeight" format="dimension" />
+        <attr name="frameWidth" format="dimension" />
+        <attr name="ratio" format="float" />
+    </declare-styleable>
+
+
+</resources>
